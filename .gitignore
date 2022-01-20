@@ -4,7 +4,7 @@
 
 ### Hugo ###
 # Generated files by hugo
-/public/
+#/public/ #Add as submodule
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
