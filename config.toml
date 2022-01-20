@@ -1,0 +1,51 @@
+baseurl                  = "https://jorge-castro.github.io"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Jorge Castro"
+theme                    = "sam"
+pygmentsStyle            = "native"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "tv.ico"
+    homepage             = "home"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = "There is always some madness in love. But there is also always some reason in madness."
+
+# Metadata for Open Graph and Twitter
+    description          = "Information hunter-gatherer."               # Max 160 characters show in search results
+    images               = ["max_cady.jpeg"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Jorge Castro"
+    # rss                = ""
+
+[[params.videoBackground.sources]]
+    source  = "/mcluhan-intro.mp4"
+    type    = "video/mp4"
+    poster  = "/dionysus.png"
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+[[params.mainMenu]]
+    link = "posts"
+    text = "posts"
+
+[[params.mainMenu]]
+    link = "gallery"
+    text = "gallery"
+
+[[params.mainMenu]]
+    link = "https://github.com/jorge-castro"
+    text = "projects"
+
+[[params.mainMenu]]
+    link = "contact"
+    text = "contact"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "who is Jorge?"
+
+[imaging]
+    quality = 75
