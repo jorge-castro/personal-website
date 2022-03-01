@@ -12,7 +12,6 @@ title: "Contact"
 * [Letterboxd](https://letterboxd.com/JorgeCastro)
 * [Listnd](https://listnd.com/profile/jorge_castro)
 * [Github](https://github.com/jorge-castro)
-* [Stack Overflow](https://stackoverflow.com/users/11138577/)
 * [Codewars](https://www.codewars.com/users/jorge-castro)
 
 ## PGP Key
