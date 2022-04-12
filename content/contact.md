@@ -16,7 +16,5 @@ title: "Contact"
 
 ## PGP Key
 
-[7EC8 D2AF 6BDB 95C0 4E9C  86F8 C0EF D775 B084 6E8C](https://keys.openpgp.org/vks/v1/by-fingerprint/7EC8D2AF6BDB95C04E9C86F8C0EFD775B0846E8C)
-
-My online identity can be verified with the above key on [Keyoxide](https://keyoxide.org/7EC8D2AF6BDB95C04E9C86F8C0EFD775B0846E8C).
+[BD7E 588B 184F 6D57 3831  90D7 D30C 8B1F 4901 D232](https://keys.openpgp.org/vks/v1/by-fingerprint/BD7E588B184F6D57383190D7D30C8B1F4901D232)
 
